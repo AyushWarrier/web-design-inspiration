@@ -17,7 +17,11 @@
 | 8      | [Commerce Cream](https://www.commercecream.com/)                             | Highlights beautifully designed e-commerce websites, showcasing product displays.                                       |
 | 9      | [One Page Love](https://onepagelove.com/)                                    | Offers inspiration for single-page website designs across multiple themes.                                              |
 | 10     | [SaaS Landing Page](https://saaslandingpage.com/)                            | A collection of SaaS product websites and landing pages with modern and clean designs.                                  |
-| 11     | [Refero Design](https://refero.design/)                                      | Featuring real-life products, web design, and iOS library for UX/UI inspiration                                          |
+| 11     | [Refero Design](https://refero.design/)                                      | Featuring real-life products, web design, and iOS library for UX/UI inspiration                                         |
+| 12     | [Best Website Gallery](https://bestwebsite.gallery/)                         | A curated collection of high-quality and visually stunning website designs.                                             |
+| 13     | [Httpster](https://httpster.net/)                                            | Showcases fresh and unique web design inspirations with a modern touch.                                                 |
+| 14     | [Nicepage](https://nicepage.com/)                                            | Features a wide range of website templates categorized by industry.                                                     |
+| 15     | [Frontend Mentor](https://www.frontendmentor.io/)                            | Provides real-world web design challenges and inspirations for developers.                                              |
 
 ## How to Contribute
 

@@ -22,6 +22,7 @@
 | 13     | [Httpster](https://httpster.net/)                                            | Showcases fresh and unique web design inspirations with a modern touch.                                                 |
 | 14     | [Nicepage](https://nicepage.com/)                                            | Features a wide range of website templates categorized by industry.                                                     |
 | 15     | [Frontend Mentor](https://www.frontendmentor.io/)                            | Provides real-world web design challenges and inspirations for developers.                                              |
+| 16     | [App Motion](https://appmotion.design/)                                      | Get inspired by top-notch mobile app UI animations and interactions for your next project.                              |
 
 ## How to Contribute
 

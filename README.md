@@ -27,7 +27,7 @@
 
 ## How to Contribute
 
-I'm building this repository to help developers and designers discover the best websites that can inspire them for their next project. If you know a website that should be featured here, I'd love your help! Here's how you can contribute:
+I'm building this repository to help developers and designers discover the best websites to inspire them for their next project. If you know a website that should be featured here, I'd love your help! Here's how you can contribute:
 1. **Fork this Repository**: Click the "Fork" button in the top-right corner of the page to create your own copy.  
 2. **Add Your Website**:  
    - Add the website to the table using this format:  

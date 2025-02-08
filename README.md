@@ -23,7 +23,7 @@
 | 14     | [Nicepage](https://nicepage.com/)                                            | Features a wide range of website templates categorized by industry.                                                     |
 | 15     | [Frontend Mentor](https://www.frontendmentor.io/)                            | Provides real-world web design challenges and inspirations for developers.                                              |
 | 16     | [App Motion](https://appmotion.design/)                                      | Get inspired by top-notch mobile app UI animations and interactions for your next project.                              |
-| 17     | [60FPS Design](https://60fps.design/)                                        | Endless collection of delightful details from best-in-class apps                                                        |
+| 17     | [SeeSaw](https://www.seesaw.website/)                                        | A digital product design studio that partners with start-ups and brands to create new futures.                          |
 
 ## How to Contribute
 

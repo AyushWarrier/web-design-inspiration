@@ -24,6 +24,7 @@
 | 15     | [Frontend Mentor](https://www.frontendmentor.io/)                            | Provides real-world web design challenges and inspirations for developers.                                              |
 | 16     | [App Motion](https://appmotion.design/)                                      | Get inspired by top-notch mobile app UI animations and interactions for your next project.                              |
 | 17     | [SeeSaw](https://www.seesaw.website/)                                        | A digital product design studio that partners with start-ups and brands to create new futures.                          |
+| 18     | [Pafolios](https://pafolios.com/)                                            | Best design portfolio examples and case studies for Product, UI/UX, and Creative Designers. Update weekly.              |
 
 ## How to Contribute
 

@@ -7,7 +7,7 @@
 
 | Sr. No | Website Name                                                                    | Description                                                                                                              |
 |--------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| 1      | [Cofolios](https://www.cofolios.com/)                                           | Find portfolio website inspirations that might help spark creativity for your own portfolio                              |
+| 1      | [Cofolios](https://www.cofolios.com/)                                           | Find portfolio website inspirations that might help spark creativity for your portfolio                                  |
 | 2      | [Dribbble](https://dribbble.com/)                                               | A go-to platform for diverse design inspirations, including web, UI, and UX.                                             |
 | 3      | [Awwwards](https://www.awwwards.com/)                                           | Features the best and most innovative websites globally, often awarded for creativity.                                   |
 | 4      | [Behance](https://www.behance.net/)                                             | Offers curated projects, including web design inspirations from top designers and agencies.                              |

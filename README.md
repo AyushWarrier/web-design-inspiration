@@ -28,6 +28,7 @@
 | 19     | [Mobbin](https://mobbin.com/)                                                   | Discover real-world design inspiration.                                                                                  |
 | 20     | [Supahero](https://www.supahero.io/)                                            | The best collection of website hero sections.                                                                            |
 | 21     | [Pageflows](https://pageflows.com/)                                             | Explore real-world user flows and design patterns from leading apps and websites.                                        |
+| 22     | [Websitevice](https://websitevice.com/)                                         | Discover website inspirations with smart filters that help you quickly find the styles and ideas you're searching for.   |
 
 ## How to Contribute
 

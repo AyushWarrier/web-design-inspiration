@@ -30,6 +30,7 @@
 | 21     | [Pageflows](https://pageflows.com/)                                             | Explore real-world user flows and design patterns from leading apps and websites.                                        |
 | 22     | [Websitevice](https://websitevice.com/)                                         | Discover website inspirations with smart filters that help you quickly find the styles and ideas you're searching for.   |
 | 23     | [Aaftab Vijapura Portfolio](https://aaftab.is-a.dev)                            | A modern developer portfolio showcasing React, frontend and full-stack projects.                                         |
+| 24     | [StagePeek](https://stagepeek.live)                                             | Interactive 2D seating maps and 3D WebGL arena sightline simulator across 201 global concert venues.                     |
 ## How to Contribute
 
 I'm building this repository to help developers and designers discover the best websites to inspire them for their next project. If you know a website that should be featured here, I'd love your help! Here's how you can contribute:
